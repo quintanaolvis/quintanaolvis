@@ -6,7 +6,6 @@
   
   #### 🏆 GitHub Trophies
   [![Github Trophies](https://github-profile-trophy.vercel.app/?username=quintanaolvis&theme=monokai&no-frame=true&no-bg=true&margin-w=4)](#)
-  -->
 
 
 ## About Me
