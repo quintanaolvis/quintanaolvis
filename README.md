@@ -1,11 +1,11 @@
 # Welcome, I'm Olvis Quintana 👋
 
 ### IA, BACKEND, FRONTEND DEVELOPER
-[![GitHub Streak](https://streak-stats.demolab.com?user=quintanaolvis&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467)](#)
+[![GitHub Streak](https://streak-stats.demolab.com?user=quintanaolvis&theme=dark&hide_border=true&card_width=467)](https://www.linkedin.com/in/olvisquintana)
 
   
   #### 🏆 GitHub Trophies
-  [![Github Trophies](https://github-profile-trophy.vercel.app/?username=quintanaolvis&theme=monokai&no-frame=true&no-bg=true&margin-w=4)](#)
+  [![Github Trophies](https://github-profile-trophy.vercel.app/?username=quintanaolvis&theme=monokai&no-frame=true&no-bg=true&margin-w=4)](https://www.linkedin.com/in/olvisquintana)
 
 
 ## About Me
