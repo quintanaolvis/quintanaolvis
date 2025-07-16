@@ -1,7 +1,7 @@
 # Welcome, I'm Olvis Quintana 👋
 
 ### IA, BACKEND, FRONTEND DEVELOPER
-[![GitHub Streak](https://streak-stats.demolab.com?user=quintanaolvis&theme=dark&hide_border=true&card_width=467)](https://www.linkedin.com/in/olvisquintana)
+[![GitHub Stacks](https://streak-stats.demolab.com?user=quintanaolvis&theme=dark&hide_border=true&card_width=467)](https://www.linkedin.com/in/olvisquintana)
 
   
   #### 🏆 GitHub Trophies
