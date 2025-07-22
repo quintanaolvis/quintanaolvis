@@ -90,5 +90,5 @@ I am a self-motivated and detail-oriented full-stack developer with 10+ years of
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@OlvisQuintana-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/olvisquintana/)
 
 ## Contact:
-
 [![Email](https://img.shields.io/badge/quintanaolvis@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:quintanaolvis@gmail.com)
+[![Call](https://img.shields.io/badge/Call-%2B51%20935%20220229-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010)]([tel:+51935220229](https://api.whatsapp.com/send?phone=51935123456&text=Hello%20from%20github))
