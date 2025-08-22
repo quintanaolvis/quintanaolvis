@@ -1,6 +1,7 @@
 # Welcome, I'm Olvis Quintana 👋
 
-### IA, BACKEND, FRONTEND DEVELOPER
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=667EEA&width=435&lines=AI%2C+Backend%2C+Frontend+Developer;10%2B+Years+of+Experience;Full-Stack+Developer;Innovation+%26+Banking+Tech)](https://git.io/typing-svg)
+
 [![GitHub Stacks](https://streak-stats.demolab.com?user=quintanaolvis&theme=dark&hide_border=true&card_width=467)](https://www.linkedin.com/in/olvisquintana)
 
   
